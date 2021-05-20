@@ -9,6 +9,6 @@ The underlined portions are meant to be changed
 ![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/naming.jpg)
 
 '/e/B&B 3rd cards/B&B_cutouts' is the placeholder direction of where the script points to.
-Now as for the file name and syntax for using the script you will want to run as so ./cut-out-builder.sh "<whatever filename you would like>"
+Now as for the file name and syntax for using the script you will want to run as so ./cut-out-builder.sh "whatever filename you would like"
 
 [Cut_out_builder.sh](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/script/cut-out-builder.sh)

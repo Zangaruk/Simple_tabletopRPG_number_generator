@@ -9,6 +9,15 @@ The underlined portions are meant to be changed
 ![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/naming.jpg)
 
 '/e/B&B 3rd cards/B&B_cutouts' is the placeholder direction of where the script points to.
-Now as for the file name and syntax for using the script you will want to run as so ./cut-out-builder.sh "whatever filename you would like"
+Now as for the file name and syntax for using the script you will want to run as so:
+(./cut-out-builder.sh "whatever filename you would like")
+
+Next the script creats and array that will hold classes, titles, job, etc which will then be shuffled and then the top result will be printed out to the file that the script will make.
+
+Next we create a sudo random number generator for character stats showing a number between 3-18 using the shuf command. The function will be added to multiple variable one for each stat making a static number for us to work with on down the line.
+
+Then we make if statements for each stat createing a variable that will add a bonus number that will be put next to the output of the number.
+
+here is an example of the file output when run
 
 [Cut_out_builder.sh](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/script/cut-out-builder.sh)

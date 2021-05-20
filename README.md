@@ -22,4 +22,4 @@ Then we make if statements for each stat createing a variable that will add a bo
 
 here is an example of the file output when run
 
-![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/Extra_Material/James.txt)
+![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/Extra_Material/James.jpg)

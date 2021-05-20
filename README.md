@@ -1,12 +1,14 @@
 # Simple_tabletopRPG_number_generator
 
+[Click here for the script](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/script/cut-out-builder.sh)
+
 This is a basic skeleton of a bash script that will varify directory existance and file existance
 If your filename already exists then the script will terminate asking you to rerun the script with a new name
 
 Asides from this the script is meant to be modified to suit your needs
 The underlined portions are meant to be changed
 
-![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/naming.jpg)
+![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/Extra_Material/naming.jpg)
 
 '/e/B&B 3rd cards/B&B_cutouts' is the placeholder direction of where the script points to.
 Now as for the file name and syntax for using the script you will want to run as so:
@@ -20,4 +22,4 @@ Then we make if statements for each stat createing a variable that will add a bo
 
 here is an example of the file output when run
 
-[Cut_out_builder.sh](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/script/cut-out-builder.sh)
+![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/Extra_Material/James.txt)

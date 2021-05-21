@@ -2,11 +2,12 @@
 
 [Click here for the script](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/script/cut-out-builder.sh)
 
-This is a basic skeleton of a bash script that will varify directory existance and file existance
-If your filename already exists then the script will terminate asking you to rerun the script with a new name
+This is a basic skeleton of a bash script that will varify directory existance and file existance.
+If your filename already exists then the script will terminate asking you to rerun the script with a new name.
+This script will generate simple numbers and calculations for a character sheet.
 
-Asides from this the script is meant to be modified to suit your needs
-The underlined portions are meant to be changed
+This script is meant to be modified to suit your needs.
+The underlined portions should be changed to match the path you are pointing this script to write to.
 
 ![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/Extra_Material/naming.jpg)
 
@@ -20,6 +21,6 @@ Next we create a sudo random number generator for character stats showing a numb
 
 Then we make if statements for each stat createing a variable that will add a bonus number that will be put next to the output of the number.
 
-here is an example of the file output when run
+here is an example of the file output when run:
 
 ![image alt text](https://github.com/Zangaruk/Simple_tabletopRPG_number_generator/blob/main/Extra_Material/James.jpg)

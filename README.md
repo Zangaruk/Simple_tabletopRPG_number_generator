@@ -14,7 +14,7 @@ The underlined portions are meant to be changed
 Now as for the file name and syntax for using the script you will want to run as so:
 (./cut-out-builder.sh "whatever filename you would like")
 
-Next the script creats and array that will hold classes, titles, job, etc which will then be shuffled and then the top result will be printed out to the file that the script will make.
+Next the script creates an array that will hold classes, titles, job, etc which will then be shuffled and then the top result will be printed out to the file that the script will make.
 
 Next we create a sudo random number generator for character stats showing a number between 3-18 using the shuf command. The function will be added to multiple variable one for each stat making a static number for us to work with on down the line.
 
